@@ -51,9 +51,9 @@ Follow me at [Linkedin](https://www.linkedin.com/in/i-am-parth-kumar/)
  ## Stats
  [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthkumar507)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthkumar507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthkumar507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthkumar507&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 

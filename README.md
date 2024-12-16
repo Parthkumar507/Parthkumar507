@@ -2,10 +2,10 @@
 I’m **Parth kumar**
 
 ## About Me
-I am a 3rd year student at USICT, Delhi. I am a **Backend Developer**.I love creating websites and apps that can help your business reach newer heights.I take responsibility of my code.
+I am a software Engineer, a problem solver . I am a **Backend Developer/Data scientist**.I love solving problems,so that it can help your business reach newer heights.
 I love to challenge and improve myself.
 
-Follow me at [Linkedin](https://www.linkedin.com/in/i-am-parth-kumar/)
+Follow me at [Linkedin](https://www.linkedin.com/in/parth-kumar-sde/)
 
 ## Coding Skills
 <p>
